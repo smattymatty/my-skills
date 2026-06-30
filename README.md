@@ -6,7 +6,7 @@ Every skill you add to your AI assistant is a small transfer of judgment - someb
 
 ## What's here
 
-- **grill-with-docs** - Matt Pocock's skill, kept here as the pair drill was built against. It interviews you one question at a time until a plan is resolved, then writes the decisions down. Source and writeup: [aihero.dev/grill-with-docs](https://www.aihero.dev/grill-with-docs).
+- **grill-with-docs** - Matt Pocock's skill, heavily modified for my own liking. It interviews you one question at a time until a plan is resolved, then writes the decisions down. Source and writeup: [aihero.dev/grill-with-docs](https://www.aihero.dev/grill-with-docs).
 - **drill-with-docs** - mine, the inverse of grill. It takes what's already written down and tests whether your head still holds it, by making you solve constrained problems derived straight from the source. Grill writes the canon; drill checks that the canon made it back into the operator.
 
 I wrote about how drill came out of refusing to use grill unmodified, and why copy-pasting a skill unread is a mistake, here: [Grill and Drill with Skill](https://mathewstorm.ca).
